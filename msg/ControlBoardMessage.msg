@@ -1,0 +1,4 @@
+float32 capVoltage
+float32 capBankEnergy
+float32 inputVoltage
+float32 backupVoltage
